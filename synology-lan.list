@@ -4,6 +4,7 @@
 192.168.0.0/16
 169.254.0.0/16
 
+AntiC_Station
 antic_station
 .local
 .lan
